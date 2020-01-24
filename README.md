@@ -1,2 +1,2 @@
-#Skolas projekts
-###Autors:Armands Maksimovs
+# Skolas projekts
+### Autors:Armands Maksimovs
