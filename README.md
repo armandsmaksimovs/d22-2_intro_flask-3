@@ -1,3 +1,3 @@
-# Skolas projekts!
+# Skolas projekts
 ### Autors:Armands Maksimovs
 
