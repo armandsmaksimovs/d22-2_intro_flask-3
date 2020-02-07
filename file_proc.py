@@ -30,6 +30,3 @@ def read_lines():
     lines_array = f.readlines()
   return lines_array
 Collapse
-
-
-
